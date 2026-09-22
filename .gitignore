@@ -1,0 +1,6 @@
+.env
+files/files_to_convert/*.session
+files/ready/ready.py
+__pycache__/
+.venv/
+.idea/

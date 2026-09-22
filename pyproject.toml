@@ -1,0 +1,17 @@
+[project]
+name = "converting-string-session"
+version = "0.1.0"
+description = "Convert Telethon .session files to StringSession"
+requires-python = "^3.13"
+dependencies = [
+    "telethon (>=1.36.0,<2.0.0)",
+    "anyio (>=4.4.0,<5.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
