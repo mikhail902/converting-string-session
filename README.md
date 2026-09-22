@@ -1,6 +1,6 @@
 # converting-string-session
 
-конвертация Telethon `.session` файлов в строковый формат (`StringSession`).
+конвертация Telethon `.session` файлов в строковый формат (`StringSession`).  >>> ВКЛЮЧИТЬ ВПН
 
 - Python 3.13+
 
